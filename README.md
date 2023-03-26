@@ -22,6 +22,13 @@ Simple overview of use/purpose.
 
 A curated list of awesome Machine Learning and Data Science applications in each Industry/Domain.It has list of applied machine learning and data science notebooks and libraries accross different industries/domains. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. 
 
+Caution: This is a work in progress, please contribute, especially if you are a subject expert in any of the industries listed below. If you are a [practioner, analytical, computational, statistical, quantitive] researcher/analyst in field X or a field X [machine learning engineer, data scientist, modeler, programmer] then your contribution will be greatly appreciated.
+
+If you want to contribute to this list (please do), send me a pull request or contact me sbreddy1@rocketmail.com or on [linkedin](https://www.linkedin.com/in/bhaskarareddysannapureddy/). Also, a listed repository should be deprecated if:
+
+Repository's owner explicitly say that "this library is not maintained".
+Not committed for long time (1-2 years).
+
 ## Getting Started
 
 ### Dependencies
