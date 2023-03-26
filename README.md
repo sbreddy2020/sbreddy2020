@@ -29,6 +29,21 @@ If you want to contribute to this list (please do), send me a pull request or co
 Repository's owner explicitly say that "this library is not maintained".
 Not committed for long time (1-2 years).
 
+<table>
+<thead>
+<tr>
+<th>foo</th>
+<th>bar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>baz</td>
+<td>bim</td>
+</tr>
+</tbody>
+</table>
+
 ## Getting Started
 
 ### Dependencies
@@ -74,5 +89,4 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 
 Inspiration, code snippets, etc.
 
-</body>
-</html>
+
