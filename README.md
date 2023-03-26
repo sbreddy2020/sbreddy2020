@@ -32,14 +32,71 @@ Not committed for long time (1-2 years).
 <table>
 <thead>
 <tr>
-<th>foo</th>
-<th>bar</th>
+<th>Accommodation & Food</th>
+<th>Agriculture</th>
+<th>Banking, Finance& Insurance</th>
+<th>Biotechnological & Life Sciences</th>
+<th>Construction & Engineering</th>	
+<th>Education & Research</th>
+<th>Emergency & Relief</th>	
+<th>Manufacturing</th>
+<th>Government and Public Works</th>
+<th>Healthcare</th>
+<th>Media & Publishing</th>
+<th>Justice, Law and Regulations</th>
+<th>Miscellaneous</th>
+<th>Real Estate, Rental & Leasing</th>
+<th>Energy/Utilities</th>
+<th>Retail or eCommerce</th>
+<th>Sales and Marketing</th>
+<th>Cybersecurity</th>
+<th>Trading</th>
+<th>Logistics</th>
+<th>Automobile</th>
+<th>Airlines</th>
+<th>Telecommunications</th>
+<th>Transportation</th>
+<th>Pharma</th>
+<th>Security</th>
+<th>Transportation</th>
+<th>Smartphones</th>
+<th>Fashion</th>
+<th>Supply chain management</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>baz</td>
-<td>bim</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>	
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>
+<td>Use case 1</td>   
 </tr>
 </tbody>
 </table>
