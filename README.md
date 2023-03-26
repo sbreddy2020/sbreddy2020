@@ -96,7 +96,6 @@ Not committed for long time (1-2 years).
 <td>Use case 1</td>
 <td>Use case 1</td>
 <td>Use case 1</td>
-<td>Use case 1</td>   
 </tr>
 </tbody>
 </table>
