@@ -20,7 +20,7 @@ Simple overview of use/purpose.
 
 ## Description
 
-A curated list of awesome Machine Learning and Data Science Applications in each Industry/Domain.
+A curated list of awesome Machine Learning and Data Science applications in each Industry/Domain.It has list of applied machine learning and data science notebooks and libraries accross different industries/domains. The code in this repository is in Python (primarily using jupyter notebooks) unless otherwise stated. 
 
 ## Getting Started
 
