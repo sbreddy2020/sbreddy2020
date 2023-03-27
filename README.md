@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Machine Learning and Data Science Applications in each Industry/Domain
 
-Simple overview of use/purpose.
+This repository is for knowledge purpose ONLY.
 
 ## Description
 
